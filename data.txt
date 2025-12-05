@@ -1,0 +1,16 @@
+------Properties of the cavity------
+FSR = 9.993e+08 Hz
+Finesse = 3.126e+02
+Photon lifetime = 4.978e-08 s
+FWHM = 3.197e+06 Hz
+Q = 8.813e+04
+
+------Input values------
+λ = 0.001064 mm
+Radii of Curvature -> ROC1 = 100.0 mm, ROC2 = 80.0 mm
+Reflectivities -> R1 = 0.99, R2 = 0.99
+Cavity Length -> L = 150.0 mm
+
+------Calculations------
+The minimum waist is at z0 = 87.500000 mm
+The minimum waist is w0 = 0.10583 mm and the Rayleigh distance is z_R = 33.072 mm
